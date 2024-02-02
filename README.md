@@ -68,7 +68,7 @@ Welcome to the Django Ecommerce Store, a fully functional online shopping platfo
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/CodeClouds-Gaurab/Django-Ecommerce-Store.git`
+1. Clone the repository: `git clone https://github.com/GaurabKundu1/Django-Ecommerce-Website.git`
 2. Navigate to the project directory and create a virtual environment: `python -m venv env`
 3. Activate the virtual environment.
 4. Install dependencies: `pip install -r requirements.txt`
